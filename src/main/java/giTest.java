@@ -4,5 +4,8 @@ public class giTest {
         System.out.println("hellohhh");
         System.out.println("hellohhh");
         System.out.println("hellohhh");
+        System.out.println("rrrrr");
+        System.out.println("rrrrr");
+        System.out.println("rrrrr");
     }
 }
