@@ -9,5 +9,6 @@ public class giTest {
         System.out.println("master");
         System.out.println("hot fix");
         System.out.println("git push");
+        System.out.println("git pull");
     }
 }
